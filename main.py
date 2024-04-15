@@ -9,18 +9,19 @@ def welcome():
 print()
 
 # This is the word bank 
-words_one = ['fun']
-words_two = ['alert']
-words_three = ['computer']
+word = ["fun", "alert", "computer"]
 
+letters = list(word)
+random.shuffle(letters)
+jumbled_word = "".join(letters)
 
-for word in range(len(words)):
-  scrambled =  "".join(random.sample(words_one[word] , len(words_one[word])))
-  print (f"Unscramble this word! {scrambled} ")
-  guess = input("Write here:")
-if guess == words_one[word]:
-  print("Correct! Move on to the next level!")
-else:
-  print("Incorrect, Please try again!")
+While True:
+    guess = input("Guess this scrambled word: ")
+    if guess.lower() != word.lower():
+        print("Incorrect, Please try again!")
+    else:
+        break
+print("Correct! Move on to the  next level!")
+
  
 
