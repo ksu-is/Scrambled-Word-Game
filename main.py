@@ -11,18 +11,18 @@ print(f"the jumbled word is {jumble}")
 user_word = input("Guess the word: ")
 
 if user_word == first_word:
-    print("Incorrect!")
+    print("Incorrect! ")
 else:
-    print("Correct! Move on to level 2!")
+    print("Correct! Move on to level 2! ")
 
 breakpoint
 
 second_word = ['alert', 'brief', 'cycle']
-b = random.choice(second_word)
-jumbletwo = ''.join(random.sample(b,len(b)))
+b= random.choice(second_word)
+jumbletwo= ''.join(random.sample(b,len(b)))
 print(f"the jumbled word is {jumbletwo}")
 
-user_word = input("Guess the word: ")
+user_word= input("Guess the word: ")
 
 if user_word == second_word:
     print("incorrect!")
@@ -41,7 +41,7 @@ user_word = input ("Guess the word: ")
 if user_word == third_word:
     print("Incorrect!")
 else:
-    print("Correct! You have won the word scramble game!")
+    print("Correct! You have won the word scramble game! ")
 
 breakpoint
 
