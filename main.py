@@ -41,7 +41,7 @@ user_word = input ("Guess the word: ")
 if user_word == third_word:
     print("Incorrect!")
 else:
-    print("Correct! You have won the word scramble game! ")
+    print("Correct! Congratulations, You have won the word scramble game! ")
 
 breakpoint
 
