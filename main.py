@@ -3,7 +3,7 @@ import random
 
 # This is the word bank for level one
 first_word = ['fun', 'ran', 'tan']
-a = random.choice(first_word)
+a= random.choice(first_word)
 jumble = ''.join(random.sample(a,len(a)))
 print(f"The Scrambled Word Is {jumble}")
 
