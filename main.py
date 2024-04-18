@@ -25,9 +25,9 @@ print(f"The Scrambled Word Is {jumbletwo}")
 user_word= input("Guess the word: ")
 
 if user_word == second_word:
-    print("Incorrect!")
+    print("Incorrect! ")
 else:
-    print("Correct! Move on to the last level!")
+    print("Correct! Move on to the last level! ")
 
 breakpoint
 
