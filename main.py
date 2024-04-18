@@ -5,7 +5,7 @@ import random
 first_word = ['fun', 'ran', 'tan']
 a= random.choice(first_word)
 jumble = ''.join(random.sample(a,len(a)))
-print(f"The Scrambled Word Is {jumble}")
+print(f"The Scrambled Word Is {jumble} ")
 
 
 user_word = input("Guess the word: ")
