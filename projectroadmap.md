@@ -9,9 +9,9 @@
 - [x] Finish Sprint 1.
 - [x] Start building our project (start coding and using git to manage our code).
 - [x] Post updates in Github where professor can see them.
-- [ ] Sophie completed 6 code changes of significant size that includes a comment that explains what was changed.
+- [x] Sophie completed 6 code changes of significant size that includes a comment that explains what was changed.
 - [x] Makenna completed 6 code changes of significant size that includes a comment that explains what was changed.
-- [ ] Finish Sprint 2.
+- [x] Finish Sprint 2.
 - [x] Start refining and testing our project.
 - [ ] Create one powerpoint slide introducing our topic (each person needs to submit a copy). It needs to have our team members listed, title of our project, tag line that introduces the main concept of what it does/will do, 1-2 screenshots or pictures that demonstrate our idea.
 - [x] Complete the testing QA Presentation.
