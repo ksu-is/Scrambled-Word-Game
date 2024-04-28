@@ -14,8 +14,7 @@ if user_word == first_word:
     print("Incorrect! ")
 else:
     print("Correct! Move on to level 2! ")
-
-breakpoint
+    pass
 
 second_word = ['alert', 'brief', 'cycle']
 b= random.choice(second_word)
@@ -28,8 +27,7 @@ if user_word == second_word:
     print("Incorrect! ")
 else:
     print("Correct! Move on to the last level! ")
-
-breakpoint
+    pass
 
 third_word = ['computer', 'average', 'information']
 c = random.choice(third_word)
@@ -42,8 +40,7 @@ if user_word == third_word:
     print("Incorrect!")
 else:
     print("Correct! Congratulations, You have won the word scramble game! ")
-
-breakpoint
+quit()
 
  
 
