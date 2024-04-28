@@ -13,9 +13,9 @@
 - [x] Makenna completed 6 code changes of significant size that includes a comment that explains what was changed.
 - [x] Finish Sprint 2.
 - [x] Start refining and testing our project.
-- [ ] Create one powerpoint slide introducing our topic (each person needs to submit a copy). It needs to have our team members listed, title of our project, tag line that introduces the main concept of what it does/will do, 1-2 screenshots or pictures that demonstrate our idea.
+- [x] Create one powerpoint slide introducing our topic (each person needs to submit a copy). It needs to have our team members listed, title of our project, tag line that introduces the main concept of what it does/will do, 1-2 screenshots or pictures that demonstrate our idea.
 - [x] Complete the testing QA Presentation.
-- [ ] Finish Sprint 3.
-- [ ] Schedule a meeting in teams (Dont overlap another project and give ourselves 30 minutes)
+- [x] Finish Sprint 3.
+- [x] Schedule a meeting in teams (Dont overlap another project and give ourselves 30 minutes)
 - [ ] During our scheduled recording, present our findings.
 - [ ] End the recording and turn in our presentation by taking a screenshot of teams showing us presentating. (Each team member submits a screenshot to D2L).
